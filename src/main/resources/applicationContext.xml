@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:jdbc="http://www.springframework.org/schema/jdbc" xmlns:task="http://www.springframework.org/schema/task"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+                http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc.xsd http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task.xsd">
+
+
+    <context:annotation-config />
+
+    <!-- Component scan to find all Spring components -->
+    <context:component-scan base-package="com.prictice" />
+
+    <!-- Data source - connect to a MySQL instance running on the local machine -->
+    <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://127.0.0.1:3306/prictice_demo"/>
+        <property name="username" value="root"/>
+        <property name="password" value="123456"/>
+    </bean>
+
+    <!--<import resource="classpath:conf/*.xml" />-->
+
+
+    <!--
+    可以用实现AysncConfigurer的配置类代替 (ThreadConfig)
+    <task:executor>配置参数：
+    id：当配置多个executor时，被@Async("id")指定使用；也被作为线程名的前缀。
+    pool-size：线程数数
+    queue-capacity：当最小的线程数已经被占用满后，新的任务会被放进queue里面，当这个 queue的capacity也被占满之后，pool里面会创建新线程处理这个任务，直到总线程数达到了max size，这时系统会拒绝这个任务并抛出TaskRejectedException异常（缺省配置的情况下，可以通过rejection-policy 来决定如何处理这种情况）
+    keep-alive：超过size的那些线程，任务完成后，再经过这个时长（秒）会被结束掉
+    rejection-policy：当pool已经达到size的时候，如何处理新任务
+    ABORT（缺省）：抛出TaskRejectedException异常，然后不执行
+    DISCARD：不执行，也不抛出异常
+    DISCARD_OLDEST：丢弃queue中最旧的那个任务
+    CALLER_RUNS：不在新线程中执行任务，而是有调用者所在的线程来执行
+    -->
+    <!--<task:annotation-driven/>-->
+    <!--<task:executor id="executor" keep-alive="300" pool-size="5" queue-capacity="10" rejection-policy="ABORT"/>-->
+
+
+
+</beans>
