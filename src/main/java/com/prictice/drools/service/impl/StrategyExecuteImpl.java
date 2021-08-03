@@ -22,7 +22,7 @@ public class StrategyExecuteImpl implements StrategyExecute {
     @Autowired
     private StrategyService strategyService = new StrategyServiceImpl();
 
-    @Autowired
+    //@Autowired
     private StrategyCategoryService strategyCategoryService;
 
     @Override
@@ -57,7 +57,7 @@ public class StrategyExecuteImpl implements StrategyExecute {
     @Override
     public void executeStrategy(TmDmpStrategy tmStrategy, Map<String, Object> fact) {
         //填充没设置的决策变量
-        StrategyLoader.inputFactMerge(fact, strategyCategoryService.getFieldVar(tmStrategy.getStClass()));
+        //StrategyLoader.inputFactMerge(fact, strategyCategoryService.getFieldVar(tmStrategy.getStClass()));
         //加载知识库
         KnowledgeBase knowledgeBase = StrategyLoader.loadKnowledgeBase(tmStrategy.getStObject());
         //执行规则
