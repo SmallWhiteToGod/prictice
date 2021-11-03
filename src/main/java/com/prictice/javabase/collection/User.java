@@ -4,7 +4,6 @@ import java.util.Objects;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: User.java
  * @package com.prictice.javabase
  * @description:

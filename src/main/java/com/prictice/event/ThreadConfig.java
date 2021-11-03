@@ -16,7 +16,6 @@ import java.util.concurrent.Executor;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: ThreadConfig.java
  * @package com.prictice.event
  * @description: 线程池配置 注意使用@EnableAsync注解

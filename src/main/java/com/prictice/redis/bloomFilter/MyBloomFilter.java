@@ -6,7 +6,6 @@ import java.util.Map;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: MyBloomFilter.java
  * @package com.prictice.redis.bloomFilter
  * @description: 自定义一个布隆过滤器

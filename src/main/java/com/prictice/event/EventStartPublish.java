@@ -9,7 +9,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: EventStartPublish.java
  * @package com.prictice.event
  * @description: 发布开始事件

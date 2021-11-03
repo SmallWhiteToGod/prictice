@@ -5,7 +5,6 @@ import java.util.concurrent.Executors;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: ThreadPoolTest.java
  * @package com.prictice.javabase.threadPool
  * @description: java中线程池的使用

@@ -3,7 +3,6 @@ package com.prictice.enums;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: InOut.java
  * @package com.prictice.enums
  * @description:

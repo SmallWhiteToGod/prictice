@@ -2,7 +2,6 @@ package com.prictice.javabase.multiThread;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: MutiClient.java
  * @package com.prictice.javabase.multiThread
  * @description:

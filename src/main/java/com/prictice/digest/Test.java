@@ -2,7 +2,6 @@ package com.prictice.digest;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: Test.java
  * @package com.prictice.digest
  * @description:

@@ -10,7 +10,6 @@ import java.io.InputStream;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: Test.java
  * @package com.fintechervision.bmp.service.sdk.sync
  * @description:

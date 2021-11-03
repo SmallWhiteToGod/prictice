@@ -8,7 +8,6 @@ import org.kie.api.runtime.KieSession;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: drools.DroolsTest.java
  * @package PACKAGE_NAME
  * @description: Drools规则测试

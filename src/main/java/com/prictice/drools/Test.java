@@ -8,7 +8,6 @@ import java.util.Map;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: Test.java
  * @package com.prictice.drools
  * @description:

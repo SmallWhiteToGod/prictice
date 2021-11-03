@@ -5,7 +5,6 @@ import com.google.common.hash.Funnels;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: GoogleBloomFilter.java
  * @package com.prictice.redis.bloomFilter
  * @description: guava包中带的布隆过滤器

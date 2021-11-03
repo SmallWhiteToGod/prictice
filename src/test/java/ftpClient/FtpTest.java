@@ -3,7 +3,6 @@ package ftpClient;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: FtpTest.java
  * @package ftpClient
  * @description:

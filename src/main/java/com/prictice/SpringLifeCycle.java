@@ -9,7 +9,6 @@ import javax.annotation.PostConstruct;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: SpringLifeCirCle.java
  * @package com.prictice
  * @description:

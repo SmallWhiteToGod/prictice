@@ -8,7 +8,6 @@ import java.util.Base64;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: TestCrypt.java
  * @package com.prictice.cryptUtil
  * @description: 加解密测试

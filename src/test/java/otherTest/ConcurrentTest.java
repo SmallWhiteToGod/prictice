@@ -5,7 +5,6 @@ import com.prictice.javabase.multiThread.SaveOrUnSave;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: ConcurrentTest.java
  * @package otherTest
  * @description:

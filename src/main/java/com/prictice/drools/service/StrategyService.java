@@ -4,7 +4,6 @@ import com.prictice.drools.fintechervision.TmDmpStrategy;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: StrategyService.java
  * @package com.prictice.drools.service
  * @description:

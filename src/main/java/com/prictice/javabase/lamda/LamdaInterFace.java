@@ -4,7 +4,6 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: FunctionInterFace.java
  * @package com.prictice.javabase.lamda
  * @description:

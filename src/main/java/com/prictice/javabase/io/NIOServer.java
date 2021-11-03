@@ -13,7 +13,6 @@ import java.util.Set;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: NIOClient.java
  * @package com.prictice.javabase.io.nio
  * @description:

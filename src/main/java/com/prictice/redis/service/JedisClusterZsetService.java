@@ -6,7 +6,6 @@ import java.util.Set;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: JedisClusterService.java
  * @package com.prictice.redis
  * @description:

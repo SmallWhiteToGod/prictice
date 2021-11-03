@@ -6,7 +6,6 @@ import java.util.Map;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: StrategyCategoryService.java
  * @package com.prictice.drools.service
  * @description:

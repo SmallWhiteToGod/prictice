@@ -6,7 +6,6 @@ import java.io.IOException;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: PricticeBoot.java
  * @package PACKAGE_NAME
  * @description:

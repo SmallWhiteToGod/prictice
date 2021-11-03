@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: SleepAndWait.java
  * @package com.prictice.javabase.multiThread
  * @description: sleep 和 wait方法

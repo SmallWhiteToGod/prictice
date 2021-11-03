@@ -8,7 +8,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: SavaOrUnSave.java
  * @package com.prictice.javabase.multiThread
  * @description:

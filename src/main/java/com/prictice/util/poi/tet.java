@@ -3,7 +3,6 @@ package com.prictice.util.poi;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: tet.java
  * @package com.prictice.util.poi
  * @description:

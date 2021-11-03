@@ -6,7 +6,6 @@ import java.util.concurrent.Semaphore;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: SemaphoreTest.java
  * @package com.prictice.javabase.multiThread
  * @description: 信号量 测试类

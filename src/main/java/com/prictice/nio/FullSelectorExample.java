@@ -11,7 +11,6 @@ import java.util.Set;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: FullSelectorExample.java
  * @package com.prictice.demo.nio
  * @description: 完整的Selector案例

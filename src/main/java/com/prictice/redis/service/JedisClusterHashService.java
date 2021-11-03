@@ -5,7 +5,6 @@ import java.util.Map;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: JedisClusterService.java
  * @package com.prictice.redis
  * @description:

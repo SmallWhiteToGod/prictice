@@ -6,7 +6,6 @@ import java.util.concurrent.*;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: PositiveExecutorsDemo.java
  * @package com.prictice.javabase.threadPool
  * @description:

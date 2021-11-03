@@ -3,7 +3,6 @@ package com.prictice.event;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: EventException.java
  * @package com.prictice.event
  * @description: 事件异常

@@ -17,7 +17,6 @@ import java.util.Set;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: JedisConnect.java
  * @package com.prictice.redis
  * @description: redis连接测试

@@ -7,7 +7,6 @@ import java.util.concurrent.CountDownLatch;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: EventPublisher.java
  * @package com.prictice.event
  * @description: 发布事件接口

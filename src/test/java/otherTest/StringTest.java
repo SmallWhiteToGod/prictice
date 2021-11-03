@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: StringTest.java
  * @package otherTest
  * @description:

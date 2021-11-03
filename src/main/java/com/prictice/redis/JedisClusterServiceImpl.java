@@ -5,7 +5,6 @@ import redis.clients.jedis.JedisCluster;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: JedisCluster.java
  * @package com.prictice.redis
  * @description: {jedisCluster文档 "http://xetorthio.github.io/jedis/"}

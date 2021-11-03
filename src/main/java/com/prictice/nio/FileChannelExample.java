@@ -9,7 +9,6 @@ import java.nio.channels.FileChannel;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: FileChannelExample.java
  * @package com.prictice.demo.nio
  * @description:  Java NIO FileChannel文件通道

@@ -7,7 +7,6 @@ import java.io.IOException;
 
 /**
  * @author ??
- * @company lhfinance.com
  * @className: EncrptTest.java
  * @package com.fintechervision.fdp.batch.jfSteps.common
  * @description:  ????

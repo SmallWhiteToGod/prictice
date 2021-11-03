@@ -4,7 +4,6 @@ import java.util.*;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: CollectionTest.java
  * @package com.prictice.javabase
  * @description:

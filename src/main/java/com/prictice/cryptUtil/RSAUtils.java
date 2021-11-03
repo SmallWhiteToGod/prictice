@@ -11,7 +11,6 @@ import org.apache.commons.codec.binary.Base64;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: RSAUtils.java
  * @package com.prictice.cryptUtil
  * @description:

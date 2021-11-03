@@ -5,7 +5,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: TestEvent.java
  * @package com.prictice.event
  * @description:  测试事件

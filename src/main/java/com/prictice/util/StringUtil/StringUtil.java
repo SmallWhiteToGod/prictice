@@ -3,7 +3,6 @@ package com.prictice.util.StringUtil;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: StringUtil.java
  * @package com.prictice.test.StringTest
  * @description: 字符串工具测试

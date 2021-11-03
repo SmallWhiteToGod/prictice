@@ -8,7 +8,6 @@ import java.util.Set;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: JedisClusterZsetServiceImpl.java
  * @package com.prictice.redis
  * @description:

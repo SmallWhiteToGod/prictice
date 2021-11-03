@@ -4,7 +4,6 @@ import java.sql.*;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: DbConnection.java
  * @package me.kafeitu
  * @description: 数据库连接测试

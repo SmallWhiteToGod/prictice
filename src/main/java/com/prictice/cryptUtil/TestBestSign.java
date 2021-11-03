@@ -5,7 +5,6 @@ import java.net.URLEncoder;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: TestBestSign.java
  * @package com.prictice.cryptUtil
  * @description:

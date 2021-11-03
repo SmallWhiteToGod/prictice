@@ -6,7 +6,6 @@ import java.util.List;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: LamdaTest.java
  * @package com.prictice.javabase.lamda
  * @description:

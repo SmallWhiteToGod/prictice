@@ -8,7 +8,6 @@ import java.util.HashMap;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: EnumTest.java
  * @package otherTest
  * @description:

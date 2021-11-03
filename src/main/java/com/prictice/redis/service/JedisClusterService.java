@@ -2,7 +2,6 @@ package com.prictice.redis.service;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: JedisClusterService.java
  * @package com.prictice.redis
  * @description:

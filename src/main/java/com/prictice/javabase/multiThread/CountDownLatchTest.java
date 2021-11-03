@@ -6,7 +6,6 @@ import java.util.concurrent.Executors;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: CountDownLatchTest.java
  * @package com.prictice.javabase.multiThread
  * @description:
