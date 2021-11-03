@@ -3,7 +3,6 @@ package com.prictice.nio;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: BasicChannelExample.java
  * @package com.prictice.demo.nio
  * @description:  利用FileChannel读取数据到Buffer的例子

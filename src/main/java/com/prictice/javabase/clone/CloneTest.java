@@ -2,7 +2,6 @@ package com.prictice.javabase.clone;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: CloneTest.java
  * @package com.prictice.javabase.clone
  * @description:

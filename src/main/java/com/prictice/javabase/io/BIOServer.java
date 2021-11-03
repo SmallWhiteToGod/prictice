@@ -9,7 +9,6 @@ package com.prictice.javabase.io;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: BIOServer.java
  * @package com.prictice.javabase.io.io
  * @description: bio模拟 服务端

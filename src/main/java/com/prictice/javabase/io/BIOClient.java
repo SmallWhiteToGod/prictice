@@ -6,7 +6,6 @@ import java.util.Date;
 
 /**
  * @author 苏博
- * @company lhfinance.com
  * @className: BIOClient.java
  * @package com.prictice.javabase.io.io
  * @description: BIO模拟 客户端

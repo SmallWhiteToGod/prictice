@@ -6,7 +6,6 @@ import java.nio.channels.FileChannel;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: ChannelTransfers.java
  * @package com.prictice.demo.nio
  * @description: 在Java NIO中如果一个channel是FileChannel类型的，那么可以直接把数据传输到另一个channel。

@@ -8,7 +8,6 @@ import java.security.MessageDigest;
 /**
  * @author 苏博
  * @version V1.2.0
- * @company lhfinance.com
  * @className: Base64.java
  * @package com.prictice.util.encrypt
  * @description:  做Md5摘要工具类
